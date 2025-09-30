@@ -4,16 +4,23 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img alt="GIF de estudo" height="200px" src="./src/study.gif">
+</div>
+
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+</p>
+
 #
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonsouzaa/leonsouzaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonsouzaa/leonsouzaa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonsouzaa/leonsouzaa/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonsouzaa/leonsouzaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonsouzaa/leonsouzaa/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonsouzaa/leonsouzaa/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
