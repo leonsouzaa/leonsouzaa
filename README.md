@@ -15,7 +15,24 @@
   Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-#
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonsouzaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsouzaa&layout=compact&langs_count=7&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <div align="center">
   <picture>
