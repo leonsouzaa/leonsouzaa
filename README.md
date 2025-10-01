@@ -12,7 +12,7 @@
 #
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
+  Estudante do 2⁰ Período de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
 </p>
 
 
