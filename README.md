@@ -5,10 +5,6 @@
 </div>
 
 
-<div align="center">
-  <img alt="GIF de estudo" height="200px" src="./src/study.gif">
-</div>
-
 #
 
 <p align="center">
