@@ -30,19 +30,6 @@
 
 
 
-#
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonsouzaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-        </a>
-      </td>
-    </tr>  
-  </table>
-</div>
 
 #
 
