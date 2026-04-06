@@ -8,7 +8,7 @@
 #
 
 <p align="center">
-  Estudante do 2⁰ Período de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
+  Estudante do 3⁰ Período de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
 </p>
 
 
@@ -20,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="33" alt="c logo"  />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="27" alt="c logo"  />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" height="28" alt="c logo"  /> 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="30" alt="c logo"  /> 
 
   
 </div>
