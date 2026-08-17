@@ -18,8 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="php logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg]" height="25" alt="figma logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png)" height="25" alt="php logo"  />
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg]](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png)" height="25" alt="figma logo"  />
 
   
 </div>
