@@ -8,7 +8,7 @@
 #
 
 <p align="center">
-  Estudante do 3⁰ Período de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
+  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Técnologica do Rio de Janeiro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
 </p>
 
 
